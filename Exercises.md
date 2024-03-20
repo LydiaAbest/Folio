@@ -38,10 +38,12 @@
   ## Week 3 ~ Questions & Coding
 
 **What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?**
+
 *Taroko Gorge*
 - Taroko Gorge is (i think) an AI generated, never-ending poem. It presents as lines of poetry that move upwards, each new line
   pulling itself out of a green ether every second or so. Because it is text based and not interactable as far as I can tell, I
-  would say all elements of this DW piece are readable.
+  would say all elements of this DW piece are readable, probably including the code (if i knew how to access it).
+
 
 *The Gathering Cloud*
 - The Gathering Cloud (from my interpretation) is a visual and written poetry piece about climate change and the online world.
@@ -49,6 +51,22 @@
   which also contain hyperlinks that give you addition information and alternative meanings for words used in the poem. Each
   'section' of The Gathering Cloud holds a written name - '[Frontispiece.]' '[No. 1.]' '[No. 2.]' '[No. 3.]' '[No. 4.]'
   '[No. 5.]' and '[SOURCES]', and even some of the moving & static visuals have written components to them (e.g. '[Frontispiece.]').
+
+
+*First Draft of the Revolution*
+- This piece of DW is a letter-based interactive fiction piece, presenting itself as a bunch of letters sent between characters. Because
+  it exists in this format, I would say that almost all aspects of this piece are readable. When given the option to alter a letter,
+  the replacement appears as text in a popup piece of paper, headered by the not-so-subtle command 'Re-write this', followed by the
+  proposed new text. At the top of the page are intactive arrows labelled 'Previous page' and 'Next page' - therefore also readable.
+  Though there are a few visual elements to this piece, it purposefully dwells almost entirely in a written, readable world.
+
+*Shade*
+- Shade, also an interactive fiction piece, activates your imagination through providing zero visuals. It is entirely code and text,
+  thus entirely readable. To interact, the reader must write into the story to push it forward. New aspects emerging the more you
+  probe. Because of this, it relies heavily on text - replying back to your written probes with very vague but equally intriguing
+  text-based answers. Additionally, the cheat sheet (a very heavily relied on element of this work) is also text based. Simply, it is
+  a written cheat sheet. It shows possible and impossible text imputs and describes how they might impact on the reader's 'gameplay' or
+  interaction. It is also totally readable.
   
 
 **How are those elements meaningful?**
