@@ -117,5 +117,4 @@
 
 **What are the qualities of the works we might consider as qualities of electronic literature?**
 - An inability to be put into print form.
-- Hybridising the defintion of literature to span to games, code, sound, or even an ever-chaning jumble of letters on a screen.
-
+- Hybridising the defintion of literature to span to games, code, animation, or all of the above as one. 
