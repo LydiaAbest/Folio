@@ -1,4 +1,4 @@
-#Week 1 Questions#
+## Week 1 Questions
 
 **What do you think digital writing is?**
 - E-Lit/Digital Writing (DW) Digital challenges the common print and scholarly conventions of literature and hybridises
