@@ -125,7 +125,7 @@
 https://cute-royal-deer.glitch.me
 (and)
 
-(From a Guardian article about Trump):
+(From a Guardian article about Trump) https://www.theguardian.com/us-news/2024/mar/17/critics-warn-radical-second-trump-term :
 
 xenophobic backing border, Rifle
 Barack candidacy for wall
