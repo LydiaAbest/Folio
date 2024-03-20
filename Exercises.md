@@ -87,14 +87,35 @@
   the piece.
 
 *Shade*
-- 
+- Having the ability to talk to the piece allows the reader to deeper engage, as it forces exploration and allows the imagination take hold.
+  Meaning comes from the lack of visual aids and the write-respond features of the AI.
+  
 
 **How are the works read differently from print literature?**
-- 
+
+*Taroko Gorge*
+- While it exists in an entirely written format, this piece would not function as print literature. The ascending, animated nature of the poem,
+  it's never-ending flow and forever changing lines means there is a video-like element to it that cannot be translated onto paper.
+
+*The Gathering cloud*
+- Similarly, this piece has animated, moving elements to it's poetry. It's hyperlinks, moving pictures and ever-updating visuals would be rendered
+  null and void on print, killing the life of the piece.
+
+*First Draft of the Revolution*
+- This piece is unable to be converted to print-lit as the reader would lose the ability to manipulate the letters to such an extent that you can
+  in a digital space. The book would be absolutely enormous, causing the ease of the piece to be rendered dead.
+
+*Shade*
+- Similar to Taroko Gorge, the AI code element would cease to exist in print literature, meaning that the reader would not be able to progress the
+  narrative. Converting this piece to print-lit would mean the work is unreadable, in a much more severe way than any of the other three.
+  
 
 **How is electronic literature different from print literature?**
--
+- Electronic literature requires the works to exist within an entirely online space, whereas print literature can often move between the two.
+- Electronic literature tends to utilise artistic elements like 3D space, AI generators, games and interfacing - those of which you can use either
+  not at all or to a much lesser degree in print literature.
 
 **What are the qualities of the works we might consider as qualities of electronic literature?**
--
+- An inability to be put into print form.
+- Hybridising the defintion of literature to span to games, code, sound, or even an ever-chaning jumble of letters on a screen.
 
