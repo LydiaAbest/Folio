@@ -70,6 +70,23 @@
   
 
 **How are those elements meaningful?**
+
+*Taroko Gorge*
+- In my opinion, the meaning comes from the code. Its performance or poetic emergence comes from the code, thus the code takes centre
+  stage (Memmott T, 2006). The poem itself is a little less impressive meaning-wise, due to it's randomised nature. However, when I
+  first read it I was unaware that it was AI generated and I thought the poem was (on occassion) quite beautiful.
+
+*The Gathering Cloud*
+- Here, the written poetry is purposeful and thus where most of the meaning can be pulled. Also notable is the use of hyperlinks within
+  the poetry, some containing defintions of the hyperlinked word that offers new or different interpretations of the poem, or ones that
+  utilise code to pull up forever-altering images of sunsets or 'little cat feet'. All aspects add meaning that bring the DW piece to life.
+
+*First Draft of the Revolution*
+- The story's meaning emerges first from the original letters provided to the reader, and evolves as the reader adds to or takes away from
+  the letter. Without the element of change being presented, the work would exist a lot flatter than *with* the added ability to manipulate
+  the piece.
+
+*Shade*
 - 
 
 **How are the works read differently from print literature?**
