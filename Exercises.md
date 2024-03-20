@@ -14,7 +14,7 @@
 - Poetry and short-form non-fiction, often in a combined hybrid form.
 
 **What tools (or techniques) do you use to write?**
-- •	Word, WordPress, PowerPoint, the notes app on my phone.
+- Word, WordPress, PowerPoint, the notes app on my phone.
 
 **Why do you use these tools (or techniques)?**
 - Word is easy to use because it is familiar.
@@ -34,4 +34,32 @@
 - Notes app is always available so it allows me to capture some of the more fleeting prose and poetry that comes while on
   the go. Other than that I don't use it for writing.
 
+
+  ## Week 3 ~ Questions & Coding
+
+**What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?**
+*Taroko Gorge*
+- Taroko Gorge is (i think) an AI generated, never-ending poem. It presents as lines of poetry that move upwards, each new line
+  pulling itself out of a green ether every second or so. Because it is text based and not interactable as far as I can tell, I
+  would say all elements of this DW piece are readable.
+
+*The Gathering Cloud*
+- The Gathering Cloud (from my interpretation) is a visual and written poetry piece about climate change and the online world.
+  It has elements of readable text within it, usually small poetry pieces that lay disconnected with one another on the webpage,
+  which also contain hyperlinks that give you addition information and alternative meanings for words used in the poem. Each
+  'section' of The Gathering Cloud holds a written name - '[Frontispiece.]' '[No. 1.]' '[No. 2.]' '[No. 3.]' '[No. 4.]'
+  '[No. 5.]' and '[SOURCES]', and even some of the moving & static visuals have written components to them (e.g. '[Frontispiece.]').
   
+
+**How are those elements meaningful?**
+- 
+
+**How are the works read differently from print literature?**
+- 
+
+**How is electronic literature different from print literature?**
+-
+
+**What are the qualities of the works we might consider as qualities of electronic literature?**
+-
+
