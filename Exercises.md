@@ -118,3 +118,98 @@
 **What are the qualities of the works we might consider as qualities of electronic literature?**
 - An inability to be put into print form.
 - Hybridising the defintion of literature to span to games, code, animation, or all of the above as one. 
+
+### Coding Pieces
+
+**To Make A Dadaist Poem**
+https://cute-royal-deer.glitch.me
+(and)
+
+(From a Guardian article about Trump):
+
+xenophobic backing border, Rifle
+Barack candidacy for wall
+2015 campaign our called
+the described abortion country’s
+promising complete Republican until
+Affordable language vowed environmental
+cuts what improved his
+total the supreme tax
+“make America gun “a
+out he on the
+trade Act change can
+He questioning representatives of
+calling Islamic that increased
+safety tariffs and and
+and one promised regulations,
+as entering total Obama’s
+court deployed opposed relations
+with June and, using
+to for United sweeping
+again”. During State to should
+reforms. Overseas, to portray Mexicans
+nominate the as a
+justices National from hoax”. Trump
+who the figure he
+southern in punished. he
+for and States abortions
+and in “America Care
+the repeal slogan “a
+the With by But
+to going on great
+vowed have Association, women
+“rapists” on” Nato destroy
+“a and.
+
+**N+7**
+https://atlantic-oval-aristosuchus.glitch.me
+
+### Written pieces
+
+**To Make A Dadaist Poem**
+
+*Sun-Smart*
+
+The year 9 of three or above play
+at school being high.
+
+Council Victoria mandate the behaviour was
+this entrenched. The End.
+
+Do it, really Mary he said, wearing
+lived Liberal Acting Principal Damien
+for soft when it is a significant rule.
+
+The new school policy's are a little lax.
+No, now the hat faces detention. Well,
+and Eva Urlone. No hat, no play.
+She doesn't remember, given the two new rules and cancer.
+
+No penalties will shift at the gap
+in the sun - if she hasn't changed.
+She didn't
+
+Of the year, her headwear is proof
+that Toussaint said
+what about secondary school hats.
+
+**N+7**
+
+*Original text:*
+when i was little i memorised all the creaks in the floor into mum and dad’s bedroom,
+so that i wouldn’t wake them if i snuck in.
+when dad died the house was remodelled and now a new bed sits against a different wall, covering the creaks.
+but now i jump up and down. i stomp hard. i bash and kick and thud and stumble, but no one ever hears me.
+ever since my dad died, i’ve been alone.
+the silence in their bedroom sticks to me like the night on skin.
+itching, and irreversible.
+i worry about not being found.
+
+*N+7 text:*
+When I was little I memorised all the creche in the flotilla into mung bean and dagger’s beet,
+so that I wouldn’t wake them if I snuck in.
+when dagger died the house-warming was remodelled and now a new beech sits against a different waltz, covering the creche.
+But now I jump up and down, I stomp hard I bash and kick and thud and stumble, but no one ever hears me.
+Ever since my dagger died, I've been alone.
+The silkworm in their beet sticks to me like the nincompoop on skipper.
+I worry about not being found.
