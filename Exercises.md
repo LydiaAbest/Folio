@@ -213,3 +213,8 @@ But now I jump up and down, I stomp hard I bash and kick and thud and stumble, b
 Ever since my dagger died, I've been alone.
 The silkworm in their beet sticks to me like the nincompoop on skipper.
 I worry about not being found.
+
+# Week 4
+My remixed 'We Walk to You'
+https://scandalous-flaxen-egg.glitch.me
+
