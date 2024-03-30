@@ -34,6 +34,26 @@
 - Notes app is always available so it allows me to capture some of the more fleeting prose and poetry that comes while on
   the go. Other than that I don't use it for writing.
 
+  # Select one work from each volume of the Electronic Literature Collection
+Volume 1:
+- Cruising
+What makes this piece digital literature?:
+Cruising offers the reader more than just poetry, it offers interaction. To fully understand this piece the reader must zoom in and out, listen to audio, fast-forward and even go backwards to read this piece entirely. Thus, it transcends print literature.
+
+Personal response:
+I enjoyed the simplicity of this piece, while acknowledging that for the time it was published (2006), it was ahead of its time. Now, looking back I feel it offered a view into the pioneering early 2000's digital writers. I enjoyed the photos that accompanied the poetry and the ability to zoom and go faster and slower. It had a real coming-of-age vibe to it.
+
+Volume 2:
+- Entre Ville
+What makes this piece digital literature?:
+Boasting a scroll-poem, interactable images that bring you to more poetry, more moments, this piece feels wide and full of love. It could not exist as print literature, as the theatre and beauty of it's interactable parts would be lost, causing the piece to feel less-than-whole.
+
+Personal Response:
+I feel like I am in the place with her. Her each-to-her-own neighbour and the underwear dancing on the washing line, the man with an impending trumpet... It feels so alive. I love the imbedded email addresses, it brings the piece to the reader - so personal.
+
+Volume 3:
+- 
+
 
   ## Week 3 ~ Questions & Coding
 
