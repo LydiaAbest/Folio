@@ -418,9 +418,9 @@ Here is my second draft of the winter room after fixing things based off my best
 *Spring Room:*
 1. he thought it was a kitchen and was confused why there were tools hanging up in a kitchen.
 2. he thought the pot with a sprout in it was a sink.
-3. he thought the watering-can was a kettle.
+3. he thought the watering can was a kettle.
 
-To fix this I asked if whether having drips dropping from the watering-can's spout would make it feel more like a watering-can. To which he said yes.
+To fix this I asked if whether having drips dropping from the watering can's spout would make it feel more like a watering can. To which he said yes.
 Similarly, I asked if having animations of the sprout in the pot growing up would help it look less like a sink. He said yes definitely.
 
 
