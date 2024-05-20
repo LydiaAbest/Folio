@@ -431,6 +431,8 @@ As I mentioned before, I am beginning to write the poetry for each season-based 
 
 My writing is pretty messy so I'll type out the poetry again here just incase you can't read it:
 
+-
+
 *Summer stretches its golden paws*
 
 *Across my windowsill.*
@@ -451,11 +453,11 @@ My writing is pretty messy so I'll type out the poetry again here just incase yo
 
 *I need to feel close to you.*
 
-
+-
 
 My initial quick edit of this piece is:
 
-
+-
 
 *Summer stretches its golden paws*
 
