@@ -432,30 +432,49 @@ As I mentioned before, I am beginning to write the poetry for each season-based 
 My writing is pretty messy so I'll type out the poetry again here just incase you can't read it:
 
 *Summer stretches its golden paws
+
 Across my windowsill.
+
 Warm cat of life.
+
+
 I approach it fast and uncaring.
+
 Pull the venetian blinds closed, 
+
 There is no place here for life.
+
+
 I return to my bed, to rot in the damp
+
 Coffin of darkness.
+
 I need to feel close to you.*
 
 
 My initial quick edit of this piece is:
 
+
 *Summer stretches its golden paws
+
 Across my windowsill.
+
 Warm cat of life.*
 
+
 *I approach it fast and uncaring,
+
 Pulling the venetian blinds shut with a clack.*
 
 *The noise scares the cat away,
+
 And I retreat to my bed, to rot
+
 In the damp coffin of darkness.*
 
+
 *There is no place here for life.
+
 I just need to feel close to you.*
 
 
