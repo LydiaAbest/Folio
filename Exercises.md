@@ -334,7 +334,7 @@ see Bitsy experiment repository.
 see Twine repository, specifically navigate to the 'vent shaft' page of the story to see the image input.
 
 
-final project - initial steps:
+Final Project - Initial Steps:
 
 I did my proposal presentation today, where i chose to do my final project on Bitsy. It is called 'The Final Year of Grief', and it aims to centre grief if the first year after experiencing a death of someone you love.
 
@@ -346,15 +346,68 @@ and this when i put it through pixsy (the site used to import scenes into Bitsy)
 
 ![newyearsinbitsy](https://github.com/LydiaAbest/Folio/assets/163696192/4db79236-a662-40d4-9bdc-c56da75586e2)
 
+Here is another base idea I have for my 'Autumn' room:
+
+![autumnbitsy](https://github.com/LydiaAbest/Folio/assets/163696192/a0164206-377c-4931-b482-bb3e074a29e1)
+Or
+![autumnbitsy3](https://github.com/LydiaAbest/Folio/assets/163696192/26c41cde-8898-4a2c-9199-9d818909e4da)
+
+and if I were going to make a room very much inspired by 'Under A Star Called Sun', this is what it will be:
+
+![room 1](https://github.com/LydiaAbest/Folio/assets/163696192/23eb3d70-c402-4402-8d98-6633c1bee609)
+
 I will continue to experiment.
 
 # Week 9
 
 I didn't do any image scaling for Twine as my project uses Bitsy.
 
+Final Project: I figured it out.
+
+I asked Lara for help because I could not for the life of me understand what I was doing wrong where the quality of the photoshop scenes was so greatly decreased when put into pixsy and then Bitsy. Lara fixed it for me immediately. Brilliant.
+
+I am now spending the class making new rooms because it actually feels fun now that it works properly!
+
+This is my first draft of a spring room:
+
+![pottingroom](https://github.com/LydiaAbest/Folio/assets/163696192/ccc45a87-4382-4dab-97ee-78b49c42ce53)
+
+The spring room (if i use this scene) will have animations of: 
+1. dripping water from the watering can.
+2. swaying vines coming off the tree.
+3. maybe grass growing or flowers sprouting in the garden outside.
+4. the sprout in the pot growing upwards.
+
+
 # Week 10
 
 Create a simple website:
-file:///C:/Users/Lydia/Documents/uni/CWB/Year%202/Horizons/Digital%20Writing%20Projects/LydiaAbest.github.io/index.html 
+
+Final Project: Making Moves.
+
+I continued to make first drafts of rooms. This week i focus on winter:
+
+![winterroom](https://github.com/LydiaAbest/Folio/assets/163696192/cb8628a9-1ee9-45b5-bb8d-c2bf82af95ff)
+
+I workshopped this room and my spring one with my best friend, who has no idea what the hell i am doing. He is the least arty minded person I know, so i figured if i could make sure he knew what was going on in the rooms then it would be pretty likely that everyone else will know as well.
+
+His main feedback was:
+
+*Winter Room:* 
+1. he couldn't tell that the rug on the floor was a rug, he thought the floor was the end of a bed and the rug was a quilt on it.
+
+To fix this I asked if having a clear exit door on the floor like on the left bottom of the Spring Room would help make the floor look more like a floor and less like the end of a bed. He said yes, probably.
+
+*Spring Room:*
+1. he thought it was a kitchen and was confused why there were tools hanging up in a kitchen.
+2. he thought the pot with a sprout in it was a sink.
+3. he thought the watering can was a kettle.
+
+To fix this I asked if whether having drips dropping from the watering can's spout would make it feel more like a watering can. To which he said yes.
+Similarly, i asked if having animations of the sprout in the pot growing up would help it look less like a sink. He said yes definitely.
+
+
+
+
 
 
