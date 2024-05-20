@@ -336,13 +336,13 @@ see Twine repository, specifically navigate to the 'vent shaft' page of the stor
 
 Final Project - Initial Steps:
 
-I did my proposal presentation today, where i chose to do my final project on Bitsy. It is called 'The Final Year of Grief', and it aims to centre grief if the first year after experiencing a death of someone you love.
+I did my proposal presentation today, where I chose to do my final project on Bitsy. It is called 'The Final Year of Grief', and it aims to centre grief if the first year after experiencing a death of someone you love.
 
-The first step i need to take is to re-learn photoshop, in order to import scenes into Bitsy, rather than doing it within Bitsy itself, which allows for less intricacy of room designs. This is harder than i originally thought it would be, and it is obvious that I am doing something wrong because my rooms keep looking like this in photoshop:
+The first step I need to take is to re-learn photoshop, in order to import scenes into Bitsy, rather than doing it within Bitsy itself, as it allows for less intricacy of room designs. This is harder than I originally thought it would be, and it is obvious that I am doing something wrong because my rooms keep looking like this in photoshop:
 
 ![new years1](https://github.com/LydiaAbest/Folio/assets/163696192/65089dc2-89d0-414b-a710-712776c8db4a)
 
-and this when i put it through pixsy (the site used to import scenes into Bitsy), and then into Bitsy:
+and this when I put it through pixsy (the site used to import scenes into Bitsy), and then into Bitsy:
 
 ![newyearsinbitsy](https://github.com/LydiaAbest/Folio/assets/163696192/4db79236-a662-40d4-9bdc-c56da75586e2)
 
@@ -362,9 +362,9 @@ I will continue to experiment.
 
 I didn't do any image scaling for Twine as my project uses Bitsy.
 
-Final Project: I figured it out.
+Final Project - I figured it out:
 
-I asked Lara for help because I could not for the life of me understand what I was doing wrong where the quality of the photoshop scenes was so greatly decreased when put into pixsy and then Bitsy. Lara fixed it for me immediately. Brilliant.
+I asked Lara for help because I could not for the life of me understand what I was doing wrong where the quality of the photoshop scenes was so greatly decreased when put into pixsy and then Bitsy. Lara fixed it for me immediately, which made me feel very silly. But who cares, we can now progress.
 
 I am now spending the class making new rooms because it actually feels fun now that it works properly!
 
@@ -383,28 +383,37 @@ The spring room (if i use this scene) will have animations of:
 
 Create a simple website:
 
-Final Project: Making Moves.
+Final Project - Making Moves:
 
-I continued to make first drafts of rooms. This week i focus on winter:
+I continued to make first drafts of rooms. This week I focus on winter:
 
-![winterroom](https://github.com/LydiaAbest/Folio/assets/163696192/cb8628a9-1ee9-45b5-bb8d-c2bf82af95ff)
+![winter room 1](https://github.com/LydiaAbest/Folio/assets/163696192/d1d56dd4-6552-41d1-a207-46bc8259ec71)
 
-I workshopped this room and my spring one with my best friend, who has no idea what the hell i am doing. He is the least arty minded person I know, so i figured if i could make sure he knew what was going on in the rooms then it would be pretty likely that everyone else will know as well.
+
+I workshopped this room and my spring one with my best friend, who has no idea what the hell I am doing. He is the least arty minded person I know, so I figured if I could make sure he knew what was going on in the rooms then it would be pretty likely that everyone else will know as well.
 
 His main feedback was:
 
 *Winter Room:* 
 1. he couldn't tell that the rug on the floor was a rug, he thought the floor was the end of a bed and the rug was a quilt on it.
+2. he thought the cushion on the window seat was a clock.
 
 To fix this I asked if having a clear exit door on the floor like on the left bottom of the Spring Room would help make the floor look more like a floor and less like the end of a bed. He said yes, probably.
+
+I don't know how to fix the cushion looking like a clock at this point in time but i will bear it in mind.
+
+Here is my second draft of the winter room after fixing things based off my best friend's comments:
+
+![winterroom](https://github.com/LydiaAbest/Folio/assets/163696192/cb8628a9-1ee9-45b5-bb8d-c2bf82af95ff)
+
 
 *Spring Room:*
 1. he thought it was a kitchen and was confused why there were tools hanging up in a kitchen.
 2. he thought the pot with a sprout in it was a sink.
-3. he thought the watering can was a kettle.
+3. he thought the watering-can was a kettle.
 
-To fix this I asked if whether having drips dropping from the watering can's spout would make it feel more like a watering can. To which he said yes.
-Similarly, i asked if having animations of the sprout in the pot growing up would help it look less like a sink. He said yes definitely.
+To fix this I asked if whether having drips dropping from the watering-can's spout would make it feel more like a watering-can. To which he said yes.
+Similarly, I asked if having animations of the sprout in the pot growing up would help it look less like a sink. He said yes definitely.
 
 
 
