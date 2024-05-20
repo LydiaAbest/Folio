@@ -334,7 +334,7 @@ see Bitsy experiment repository.
 see Twine repository, specifically navigate to the 'vent shaft' page of the story to see the image input.
 
 
-Final Project - Initial Steps:
+*Final Project - Initial Steps:*
 
 I did my proposal presentation today, where I chose to do my final project on Bitsy. It is called 'The Final Year of Grief', and it aims to centre grief if the first year after experiencing a death of someone you love.
 
@@ -366,9 +366,9 @@ I will continue to experiment.
 
 I didn't do any image scaling for Twine as my project uses Bitsy.
 
-Final Project - I figured it out:
+*Final Project - I figured it out:*
 
-I asked Lara for help because I could not for the life of me understand what I was doing wrong where the quality of the photoshop scenes was so greatly decreased when put into pixsy and then Bitsy. Lara fixed it for me immediately, which made me feel very silly. But who cares, we can now progress.
+I asked Lara for help because I could not for the life of me understand what I was doing wrong where the quality of the photoshop scenes was so greatly decreased when put into pixsy and then Bitsy. Lara fixed it for me immediately, (thank you Lara) which made me feel very silly. But who cares, we can now progress.
 
 I am now spending the class making new rooms because it actually feels fun now that it works properly!
 
@@ -387,7 +387,7 @@ The spring room (if i use this scene) will have animations of:
 
 Create a simple website:
 
-Final Project - Making Moves:
+*Final Project - Making Moves:*
 
 I continued to make first drafts of rooms. This week I focus on winter:
 
@@ -418,6 +418,46 @@ Here is my second draft of the winter room after fixing things based off my best
 
 To fix this I asked if whether having drips dropping from the watering-can's spout would make it feel more like a watering-can. To which he said yes.
 Similarly, I asked if having animations of the sprout in the pot growing up would help it look less like a sink. He said yes definitely.
+
+
+# Week 11
+
+Today we are spending a lot of time on our projects in class. This is helpful, but also I am still only designing rooms and writing the poetry for each room so I don't have many questions to ask Benjamin, which is unfortunate. I know as soon as he is not available I will have tonnes of questions.
+
+*Final Project - Poetry Writing:*
+
+As I mentioned before, I am beginning to write the poetry for each season-based room. So far I have written a first draft for my summer room (even though I don't have a room design for it yet). I am using this poetry writing as an excuse to journal for the first time in my life because I think it's the best way to illustrate my thought processes for this folio. Here is my journal page for summer:
+
+
+My writing is pretty messy so I'll type out the poetry again here just incase you can't read it:
+
+*Summer stretches its golden paws
+Across my windowsill.
+Warm cat of life.
+I approach it fast and uncaring.
+Pull the venetian blinds closed, 
+There is no place here for life.
+I return to my bed, to rot in the damp
+Coffin of darkness.
+I need to feel close to you.*
+
+
+My initial quick edit of this piece is:
+
+*Summer stretches its golden paws
+Across my windowsill.
+Warm cat of life.*
+
+*I approach it fast and uncaring,
+Pulling the venetian blinds shut with a clack.*
+
+*The noise scares the cat away,
+And I retreat to my bed, to rot
+In the damp coffin of darkness.*
+
+*There is no place here for life.
+I just need to feel close to you.*
+
 
 
 
