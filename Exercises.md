@@ -431,51 +431,53 @@ As I mentioned before, I am beginning to write the poetry for each season-based 
 
 My writing is pretty messy so I'll type out the poetry again here just incase you can't read it:
 
-*Summer stretches its golden paws
+*Summer stretches its golden paws*
 
-Across my windowsill.
+*Across my windowsill.*
 
-Warm cat of life.
-
-
-I approach it fast and uncaring.
-
-Pull the venetian blinds closed, 
-
-There is no place here for life.
+*Warm cat of life.*
 
 
-I return to my bed, to rot in the damp
+*I approach it fast and uncaring.*
 
-Coffin of darkness.
+*Pull the venetian blinds closed,*
 
-I need to feel close to you.*
+*There is no place here for life.*
+
+
+*I return to my bed, to rot in the damp*
+
+*Coffin of darkness.*
+
+*I need to feel close to you.*
+
 
 
 My initial quick edit of this piece is:
 
 
-*Summer stretches its golden paws
 
-Across my windowsill.
+*Summer stretches its golden paws*
 
-Warm cat of life.*
+*Across my windowsill.*
 
-
-*I approach it fast and uncaring,
-
-Pulling the venetian blinds shut with a clack.*
-
-*The noise scares the cat away,
-
-And I retreat to my bed, to rot
-
-In the damp coffin of darkness.*
+*Warm cat of life.*
 
 
-*There is no place here for life.
+*I approach it fast and uncaring,*
 
-I just need to feel close to you.*
+*Pulling the venetian blinds shut with a clack.*
+
+*The noise scares the cat away,*
+
+*And I retreat to my bed, to rot*
+
+*In the damp coffin of darkness.*
+
+
+*There is no place here for life.*
+
+*I just need to feel close to you.*
 
 
 
