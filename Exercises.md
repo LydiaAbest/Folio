@@ -428,6 +428,7 @@ Today we are spending a lot of time on our projects in class. This is helpful, b
 
 As I mentioned before, I am beginning to write the poetry for each season-based room. So far I have written a first draft for my summer room (even though I don't have a room design for it yet). I am using this poetry writing as an excuse to journal for the first time in my life because I think it's the best way to illustrate my thought processes for this folio. Here is my journal page for summer:
 
+[insert photo of journal page here]
 
 My writing is pretty messy so I'll type out the poetry again here just incase you can't read it:
 
