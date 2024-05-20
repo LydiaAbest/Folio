@@ -348,17 +348,21 @@ and this when I put it through pixsy (the site used to import scenes into Bitsy)
 
 I don't know how to fix this... But I thought I had better keep coming up with scene ideas just incase it is fixable:
 
-Here is a base idea I have for my 'Autumn' room:
+
+
+And before I did my presentation, when I was brainstorming what my major project would be, i designed a few other rooms.
+
+If I make a room inspired by 'Under A Star Called Sun', this is what it might look like:
+
+![room 1](https://github.com/LydiaAbest/Folio/assets/163696192/23eb3d70-c402-4402-8d98-6633c1bee609)
+
+Here is a base idea I came up with for my 'Autumn' room prior to my presentation:
 
 ![autumnbitsy](https://github.com/LydiaAbest/Folio/assets/163696192/a0164206-377c-4931-b482-bb3e074a29e1)
 
 Or
 
 ![autumnbitsy3](https://github.com/LydiaAbest/Folio/assets/163696192/26c41cde-8898-4a2c-9199-9d818909e4da)
-
-And if I were going to make a room very much inspired by 'Under A Star Called Sun', this is what it will be:
-
-![room 1](https://github.com/LydiaAbest/Folio/assets/163696192/23eb3d70-c402-4402-8d98-6633c1bee609)
 
 I will continue to experiment.
 
