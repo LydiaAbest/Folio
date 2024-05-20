@@ -259,6 +259,65 @@ Have a tiny story and build it out from there. where are the branching moments? 
 
 
 **Create a Short Branching Fiction Story**
+
 Write a short branching fiction story. It should be nine short paragraphs in length and each paragraph should link to or be linked from at least two others.
 
+before i chose to do my final piece on Bitsy, i was going to try and adapt a story i wrote in a short form fiction class into a hypertext fiction piece. this was the piece:
+
+The Dancing Planet
+
+They had to set a precedent. They had to quell the riots. My revelation had cost them their peace and that was unforgivable. 
+They gathered their forces to hunt me down and were surprised when they found I was not hiding. I knew that there was no escaping this. From the second that I pushed ‘Release’ on the broadcast, I had sealed my fate. This was my burden to bear, for the good of the station, for the lives of everyone I love, and for Kelios. 
+
+…
+
+There is a bang on my cell door and the guards enter. They cuff me and lead me out of the hold. We pass over the Space Deck, through the Captain’s Quarters and into the Chief’s cabin. On the way I see nobody that I recognise, though admittedly I am only looking for Lucy. 
+Arriving in the cabin, they sit me down in front of a wooden table covered with diagrams, documents and pictures. I can see the pictures are of Kelios. They are my pictures. The documents and diagrams are mine too.
+
+…
+
+“Go! Go girl go!” I cried out to Lucy. Her pirouette continued for three more spins – a personal best. “Woohoo!” I cheered as she fell to the floor, panting and giggling. 
+“How many was that?” she grinned.
+“Aw, I reckon about nine.”
+“Wow!” She stood up and ran at me. I swooped her up above my head and spun her around.
+“And that makes ten!”
+
+…
+I have been studying the planetary gas giant, Kelios, for five years now. Her clouds of liquid uranium and pure diamond core are of great interest to the Chief – as harvesting them will surely pull our station out of poverty. It is my job as head of Celestial Research to determine the success rate of such a mission. So far, the facts aren’t promising.
+The Chief has asked me to report on this next week. 
+
+…
+
+“All rise for Chief Palarm,” says the guard to my left. Palarm enters the room and everyone salutes. I do not. He walks straight up to the table and begins sifting through the papers. He pulls one out and places it in front of me; it is a photo of my wife and Lucy from two years ago, on Christmas Eve. Their smiles are wide and gentle. I wince. Palarm observes this but says nothing.
+
+…
+
+“My fellow inhabitants of Station 9. I have urgent and damning news to share with you. Chief Palarm has authorised the deployment of our remaining three Weapons of Last Resort, to be aimed and fired at Kelios’ core. This, if it is to go ahead, would not only destroy Kelios, but the force of the explosion would likely throw our station out of orbit and into Kelios’ deteriorating atmosphere. An atmosphere of nuclear radiation, liquid uranium rain, 1134-degree heat and crushing pressure. In other words, we will die if this mission is not prevented. My fellow citizens, our Chief’s greed must not prevail. It is time to protect our home. To protect Kelios. To protect each other. It is time to fight.”
+
+…
+
+“It’s okay, my love. Don’t cry. You’ve got Mum, you’ll be okay.” Lucy looked at me with big, wet eyes. Desperation lingered around her like an aura, almost tangible.
+
+“Dad…” her voice wobbled and trailed off. I kissed her on the forehead. The guards made a move to grab me, their patience running thin.
+
+“Okay, I’ll come. Please, just wait one second.” They paused and I turned back to Lucy. I gently pried her little fingers off my arm and handed her over to her mum. Lucy gulped and began crying again. 
+
+“I love you,” I whispered to her. “To Kelios and back.”
+The guards pulled me away.
+
+…
+
+“Atticus Maximillian Johnson, you have been accused of treason. Treason against me, your station and your people. How do you plead?” 
+
+“Guilty,” I say, flat-toned.
+
+Palarm looks at me dead in the eyes. “Then I sentence you to death by Spacewalk.”
+
+…
+
+The ship began to leave my vision as I spun around, the matte grey hull disappearing, the blackness returning, then Kelios. She looked different to me now than when I was on Station 9. Younger, gentler. Her curls and twists of atmosphere dancing in her own light. Her rings a protective border, a second world, a spinning tutu. 
+
+She was a dancing planet. As she spun, I spun. As she turned, I turned. As air left me, it fell into her. I fed her, in some small way. And now I will remain, suspended in this black abyss. Just out of reach, with only gases and bone left inside me. 
+
+We are the same.
 
