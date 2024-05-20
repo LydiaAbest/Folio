@@ -426,7 +426,21 @@ Similarly, I asked if having animations of the sprout in the pot growing up woul
 
 # Week 11
 
-Today we are spending a lot of time on our projects in class. This is helpful, but also I am still only designing rooms and writing the poetry for each room so I don't have many questions to ask Benjamin, which is unfortunate. I know as soon as he is not available I will have tonnes of questions.
+Today we are looking at accessiblity. 
+
+*Main points about accessability:*
+1. alt-text on images are very important - learn proper ways to label images. use (alt="") when the alt text isn't needed (?).
+2. using correct html code for things like tabels and graphs is very important as otherwise it wont read out the information in ways that people with screen/braile readers can understand.
+3. you shouldn't rely on colour alone to convey things.
+4. 
+
+How do I make a Bitsy piece accessible?
+You probably can't, because there might not be any adaptations available at this current point in time.
+
+accessible.games.com
+
+
+We are also spending a lot of time on our projects in class. This is helpful, but also I am still only designing rooms and writing the poetry for each room so I don't have many questions to ask Benjamin, which is unfortunate. I know as soon as he is not available I will have tonnes of questions.
 
 *Final Project - Poetry Writing:*
 
