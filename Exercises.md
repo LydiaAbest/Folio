@@ -240,13 +240,21 @@ https://scandalous-flaxen-egg.glitch.me
 
 # Week 5
 Writing Hypertext Fiction -
+
 **How is it different from fiction?**
+
 I don't know if it is different from fiction, because fiction is the genre, and hypertext is a subheading to fiction. but i would say hypertext is different from regular fiction because it gives the reader more agency than usual. It allows for choice in the narrative where regular ficiton is just a set storyline.
+
 **How is it different from games?**
+
 Hypertext fiction can have game elements, but generally it is less interactive than 'games' as it's only interface is the hypertext function which allows you to 'choose your path'. 
+
 **How do you plan fiction?**
+
 I don't write fiction very often, but when i do, i find it easier to base it vaguely around a non-fictional exeperience i have experienced. I also tend to not plan stories, but if i were to, i would research similar stories - e.g. if i wrote a story about elves i would read other stories about elves. and i would research my story's setting (usually based somewhat in reality). Apart from this i am not sure how i would plan the rest of the story.
+
 **How could you plan hypertext fiction?**
+
 Have a tiny story and build it out from there. where are the branching moments? will there be multiple endings? if no, how will the storyline's reconverge? if yes, how many endings will you allow? What other elements would you like to include in the story, e.g. audio, video, game, photos etc.
 
 
