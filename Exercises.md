@@ -333,6 +333,21 @@ see Bitsy experiment repository.
 
 see Twine repository, specifically navigate to the 'vent shaft' page of the story to see the image input.
 
+
+final project - initial steps:
+
+I did my proposal presentation today, where i chose to do my final project on Bitsy. It is called 'The Final Year of Grief', and it aims to centre grief if the first year after experiencing a death of someone you love.
+
+The first step i need to take is to re-learn photoshop, in order to import scenes into Bitsy, rather than doing it within Bitsy itself, which allows for less intricacy of room designs. This is harder than i originally thought it would be, and it is obvious that I am doing something wrong because my rooms keep looking like this in photoshop:
+
+![new years1](https://github.com/LydiaAbest/Folio/assets/163696192/65089dc2-89d0-414b-a710-712776c8db4a)
+
+and this when i put it through pixsy (the site used to import scenes into Bitsy), and then into Bitsy:
+
+![newyearsinbitsy](https://github.com/LydiaAbest/Folio/assets/163696192/4db79236-a662-40d4-9bdc-c56da75586e2)
+
+I will continue to experiment.
+
 # Week 9
 
 I didn't do any image scaling for Twine as my project uses Bitsy.
