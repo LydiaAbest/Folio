@@ -262,9 +262,9 @@ Have a tiny story and build it out from there. where are the branching moments? 
 
 Write a short branching fiction story. It should be nine short paragraphs in length and each paragraph should link to or be linked from at least two others.
 
-before i chose to do my final piece on Bitsy, i was going to try and adapt a story i wrote in a short form fiction class into a hypertext fiction piece. this was the piece:
+i was going to try and adapt a story i wrote in a short form fiction class into a hypertext fiction piece. this is the piece:
 
-The Dancing Planet
+*The Dancing Planet*
 
 They had to set a precedent. They had to quell the riots. My revelation had cost them their peace and that was unforgivable. 
 They gathered their forces to hunt me down and were surprised when they found I was not hiding. I knew that there was no escaping this. From the second that I pushed ‘Release’ on the broadcast, I had sealed my fate. This was my burden to bear, for the good of the station, for the lives of everyone I love, and for Kelios. 
@@ -320,4 +320,26 @@ The ship began to leave my vision as I spun around, the matte grey hull disappea
 She was a dancing planet. As she spun, I spun. As she turned, I turned. As air left me, it fell into her. I fed her, in some small way. And now I will remain, suspended in this black abyss. Just out of reach, with only gases and bone left inside me. 
 
 We are the same.
+
+# Week 6
+
+see Twine repository.
+
+# Week 7
+
+see Bitsy experiment repository.
+
+# Week 8
+
+see Twine repository, specifically navigate to the 'vent shaft' page of the story to see the image input.
+
+# Week 9
+
+I didn't do any image scaling for Twine as my project uses Bitsy.
+
+# Week 10
+
+Create a simple website:
+file:///C:/Users/Lydia/Documents/uni/CWB/Year%202/Horizons/Digital%20Writing%20Projects/LydiaAbest.github.io/index.html 
+
 
